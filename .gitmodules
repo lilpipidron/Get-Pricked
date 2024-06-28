@@ -5,5 +5,4 @@
 [submodule "sugar-backend"]
 	path = sugar-backend
 	url = https://github.com/lilpipidron/sugar-backend
-[submodule "sugar_backend"]
-	branch = main
+	branck = main
