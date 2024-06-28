@@ -1,0 +1,6 @@
+[submodule "Sugar_Frontend"]
+	path = Sugar_Frontend
+	url = https://github.com/nek00oo/Sugar_Frontend
+[submodule "sugar-backend"]
+	path = sugar-backend
+	url = https://github.com/lilpipidron/sugar-backend
