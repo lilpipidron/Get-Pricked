@@ -18,6 +18,7 @@
 ### Build
 
 ```
+docker pull golang
 docker compose build
 ```
 
