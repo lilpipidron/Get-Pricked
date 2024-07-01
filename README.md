@@ -18,11 +18,11 @@
 ### Build
 
 ```
-docker pull golang
-docker compose build
+  docker pull golang
+  docker compose build
 ```
 
 ### Start
 ```
-docker compose up
+  docker compose up
 ```
